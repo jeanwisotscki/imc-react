@@ -48,6 +48,9 @@ span {
   border-radius: 6px;
 }
 
-h2 {
+.msg {
+  display: block;
+  max-width: 80%;
   margin-top: 2rem;
+  text-align: center;
 }
