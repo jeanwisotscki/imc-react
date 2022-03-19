@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/imc-react/static/css/main.4a39e914.css",
-    "main.js": "/imc-react/static/js/main.ae892132.js",
+    "main.js": "/imc-react/static/js/main.150b0664.js",
     "index.html": "/imc-react/index.html",
     "main.4a39e914.css.map": "/imc-react/static/css/main.4a39e914.css.map",
-    "main.ae892132.js.map": "/imc-react/static/js/main.ae892132.js.map"
+    "main.150b0664.js.map": "/imc-react/static/js/main.150b0664.js.map"
   },
   "entrypoints": [
     "static/css/main.4a39e914.css",
-    "static/js/main.ae892132.js"
+    "static/js/main.150b0664.js"
   ]
 }
